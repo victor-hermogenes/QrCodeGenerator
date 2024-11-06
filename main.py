@@ -20,4 +20,4 @@ def create_qr_code(link, output_file="qr_code.png"):
     except Exception as e:
         print(f"Error: {e}")
 
-create_qr_code("https://www.instagram.com/kethrinsallyfotos?igsh=OTdkajZxdWI2NHU2")
+create_qr_code("YOUR_LINK_HERE")
